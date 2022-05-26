@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1652457067 source:c:\users\mohammed\downloads\agile project\-imt-bank-system\bank system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"adminWindow.c"
+
+1652385474 c:\users\mohammed\downloads\agile project\-imt-bank-system\bank system\adminlinkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652457024 c:\users\mohammed\downloads\agile project\-imt-bank-system\bank system\clientlinkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652457219 c:\users\mohammed\downloads\agile project\-imt-bank-system\bank system\adminwindow.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AdminLinkedList.c"
+	"ClientLinkedList.c"
+
